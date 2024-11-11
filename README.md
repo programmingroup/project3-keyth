@@ -10,7 +10,7 @@ The application displays a welcome message and a brief personal introduction.
 - 🖥️ Simple and friendly welcome page.
 - 🙋‍♀️ Personalized introduction.
 
-## 🐳 Deployment Docker image 🐳
+## 🐳 Deployment Docker image
 
 To deploy my project on your machine, you must use the following commands:
 
@@ -20,6 +20,10 @@ To deploy my project on your machine, you must use the following commands:
     > docker run -d -p 8080:8080 keyth5/project3:v3
 ```
 You can also visit the repository in Docker Hub: [🔗here](https://hub.docker.com/repository/docker/keyth5/project3/general)
+
+##  🔗 Execution 
+
+One time that execute the commands for Docker, you have that entered to: http://localhost:8080
 
 ## 🌐 Live Demo
 
